@@ -1,5 +1,5 @@
 # odin-recipes
 
-1st Project for TOP:
+My 1st Project for TOP:
 
-This project includes 3 recipes based on "a theme" to display basic "HTML skills(huuh?)"
+This project includes 3 basic recipes famous in an Indian household to display basic "HTML skills(huuh?)"
